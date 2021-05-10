@@ -1,0 +1,18 @@
+stack: LIFO: last in first out
+1- PUSH(item): push item to the top of stack.
+2- POP(item): remove and return item from stack.
+3- PEEK(item): retrun the top item without removing it.
+4- (is_empty): return true if stack is empty.
+
+============================================
+
+- add item  to the top of stack append().
+- remove item  from the top of stack pop().
+- Both happens from the right.
+
+=============================================
+
+Queue:FIFO : FIRST IN FIRST OUT
+
+1- enqueue: add item to the end of the queue.
+2- dequeue: remove an item at the front.
